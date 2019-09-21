@@ -1,8 +1,10 @@
-<img src="http://i.imgur.com/DrI3FkN.png" width="200">
+<img src="https://i.imgur.com/D1k6Vx2.png" style="width: 100%">
 
-# Cytoid <a href='https://play.google.com/store/apps/details?id=me.tigerhix.cytoid&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="100"/></a><a href='https://itunes.apple.com/us/app/cytoid/id1266582726?ls=1&mt=8'><img alt='Download on the App Store' src='https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' width="100"/></a>
+# Cytoid [![CodeFactor](https://www.codefactor.io/repository/github/cytoid/cytoid/badge)](https://www.codefactor.io/repository/github/cytoid/cytoid) [![Join the Discord](https://discordapp.com/api/guilds/362884768498712579/widget.png?style=shield)](https://discord.gg/cytoid)
 
-> 一个由社区驱动的 Cytus。
+由社区驱动的音乐游戏，可在 [App Store](https://itunes.apple.com/us/app/cytoid/id1266582726)，[Google Play](https://play.google.com/store/apps/details?id=me.tigerhix.cytoid) 和 [TapTap](https://www.taptap.com/app/158749) 下载。
+
+[English](./README.md) 丨 中文
 
 **Cytoid** 是一个参照 [Cytus](https://www.rayark.com/g/cytus/) 玩法的开源节奏游戏。
 
