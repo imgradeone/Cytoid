@@ -4,6 +4,8 @@
 
 A community-driven touchscreen music game available on [App Store](https://itunes.apple.com/us/app/cytoid/id1266582726) and [Google Play](https://play.google.com/store/apps/details?id=me.tigerhix.cytoid).
 
+English 丨 [中文](./README_cn.md)
+
 ## Getting Started
 
 Cytoid is built in C# with [Unity 2018.2.12f1 (Personal)](https://unity3d.com).
