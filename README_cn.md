@@ -6,6 +6,32 @@
 
 [English](./README.md) 丨 中文
 
+## 开始搭建
+
+Cytoid 使用 C# 和 [Unity 2018.2.12f1 (Personal)](https://unity3d.com) 构造。
+
+由于协议限制，部分项目使用的插件/资源未内置于此仓库。查看 [.gitignore](https://github.com/TigerHix/Cytoid/blob/master/.gitignore) 以了解详情。
+
+## 开源协议
+
+源代码（除非另有声明）基于 [MIT](https://opensource.org/licenses/MIT) 协议发布。协议详情请参见 `LICENSE`。
+
+由 [iamMANOLIS](http://iammanolis.com/) 作曲的 `Glow Dance` 基于 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议发布。
+
+## Meta
+
+Proudly presented by [Tiger Tang](https://github.com/tigerhix/).
+* Twitter: [@tigerhixtang](https://twitter.com/tigerhixtang)
+* Patreon: [TigerHix](https://www.patreon.com/tigerhix)
+* 爱发电: [@TigerHix](https://afdian.net/@tigerhix)
+* Email: [tigerhix@gmail.com](mailto://tigerhix@gmail.com)
+
+特别感谢 [xuxu9110](http://xuxu9110.github.io/) ヾ(　´・◡・｀)ノ
+
+另外其实我们有个 Q 群：656330245
+
+# 下方是原 README_cn，针对新 README 的翻译正在进行
+
 **Cytoid** 是一个参照 [Cytus](https://www.rayark.com/g/cytus/) 玩法的开源节奏游戏。
 
 * 用户关卡分享 & 下载：[CytoidIO](http://cytoid.io/browse)
@@ -75,21 +101,6 @@ Cytoid 是由社区驱动的节奏游戏；尽管其内置了[教程关卡](http
 * Beta 1
     * 一个至少能跑的版本
 
-## 开源协议
-
-源代码（除非另有声明）基于 [MIT](https://opensource.org/licenses/MIT) 协议发布。协议详情请参见 `LICENSE`。
-
-由 [iamMANOLIS](http://iammanolis.com/) 作曲的 `Glow Dance` 基于 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议发布。
-
-## Meta
-
-Proudly presented by [Tiger Tang](https://github.com/tigerhix/).
-* Twitter: [@tigerhixtang](https://twitter.com/tigerhixtang)
-* Email: [tigerhix@gmail.com](mailto://tigerhix@gmail.com)
-
-特别感谢 [xuxu9110](http://xuxu9110.github.io/) 大大贡献的 Glow Dance 谱面！ ヾ(　´・◡・｀)ノ
-
-另外其实我们有个 Q 群：656330245
 
 最后当然是，
 ```
